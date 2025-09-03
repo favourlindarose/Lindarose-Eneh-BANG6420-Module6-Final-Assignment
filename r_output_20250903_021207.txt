@@ -1,0 +1,29 @@
+============================================================
+FASHION MNIST CLASSIFICATION - R IMPLEMENTATION
+============================================================
+Log file: r_output_20250903_021207.txt 
+Start time: 2025-09-03 02:12:07 
+============================================================
+Loading Fashion MNIST dataset...
+Training images dimensions: 60000 28 28 
+Training labels length: 60000 
+Test images dimensions: 10000 28 28 
+Test labels length: 10000 
+
+Class names:
+  0: T-shirt/top
+  1: Trouser
+  2: Pullover
+  3: Dress
+  4: Coat
+  5: Sandal
+  6: Shirt
+  7: Sneaker
+  8: Bag
+  9: Ankle boot
+
+Preprocessing data...
+After reshaping - Training images dimensions: 60000 28 28 1 
+After reshaping - Test images dimensions: 10000 28 28 1 
+
+Building the CNN model with 6 layers using FashionMNISTModel class...

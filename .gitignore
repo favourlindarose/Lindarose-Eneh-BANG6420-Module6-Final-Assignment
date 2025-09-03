@@ -24,7 +24,6 @@ __pycache__/
 Thumbs.db
 
 # Log files (optional)
-*.txt
 *.log
 
 # Large data files
