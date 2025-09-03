@@ -1,7 +1,7 @@
 
 # Fashion MNIST Classification Project
 
-## 📋 Project Overview
+##  Project Overview
 This project implements a Convolutional Neural Network (CNN) with **6 layers** to classify images from the Fashion MNIST dataset.  
 The implementation is provided in both **Python** and **R**, demonstrating model construction, training, and prediction.
 
