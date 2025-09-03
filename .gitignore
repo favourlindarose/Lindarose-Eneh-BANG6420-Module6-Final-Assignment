@@ -1,0 +1,33 @@
+# Virtual environments
+fashion_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files (optional)
+*.txt
+*.log
+
+# Large data files
+*.h5
+*.pkl
+*.joblib
